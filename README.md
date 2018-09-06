@@ -59,19 +59,19 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * TensorFlow Deep Learning Projects [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects) [[Amazon]](https://www.amazon.com/dp/1788398068)
 
 ## Get to Know the Author(s)
-**Dipanjan Sarkar**
-Dipanjan (DJ) Sarkar is a Data Scientist at Intel, leveraging data science, machine learning, and deep learning to build large-scale intelligent systems. He holds a master of technology degree with specializations in Data Science and Software Engineering. 
+**Dipanjan (DJ) Sarkar**
+is a Data Scientist at Intel, leveraging data science, machine learning, and deep learning to build large-scale intelligent systems. He holds a master of technology degree with specializations in Data Science and Software Engineering. 
 
 He has been an analytics practitioner for several years now, specializing in machine learning, NLP, statistical methods, and deep learning. He is passionate about education and also acts as a Data Science Mentor at various organizations like Springboard, helping
 people learn data science. He is also a key contributor and editor for Towards Data Science, a leading online journal on AI and Data Science. He has also authored several books on R, Python, machine learning, NLP, and deep learning.
 
 **Raghav Bali**
-Raghav Bali is a Data Scientist at Optum (United Health Group). His work involves research and development of enterprise-level solutions based on machine learning, deep learning, and NLP for Healthcare and Insurance related use cases. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives. He has also worked in ERP and finance domains with some of the leading organizations in the world. Raghav has also authored multiple books with leading publishers.
+is a Data Scientist at Optum (United Health Group). His work involves research and development of enterprise-level solutions based on machine learning, deep learning, and NLP for Healthcare and Insurance related use cases. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives. He has also worked in ERP and finance domains with some of the leading organizations in the world. Raghav has also authored multiple books with leading publishers.
 
 Raghav has a master's degree (gold medalist) in Information Technology from International Institute of Information Technology, Bangalore. He loves reading and is a shutterbug capturing moments when he isn't busy solving problems.
 
 **Tamoghna Ghosh**
-Tamoghna Ghosh is a machine learning engineer at Intel Corporation. He has overall 11 years of work experience including 4 years of core research experience at Microsoft Research (MSR) India. At MSR he worked as a research assistant in cryptanalysis of block
+is a machine learning engineer at Intel Corporation. He has overall 11 years of work experience including 4 years of core research experience at Microsoft Research (MSR) India. At MSR he worked as a research assistant in cryptanalysis of block
 ciphers.
 
 His technical expertise's are in big data, machine learning, NLP, information retrieval, data visualization and software development. He received M.Tech (Computer Science) degree from the Indian Statistical Institute, Kolkata and M.Sc. (Mathematics) from University of Calcutta with specialization in functional analysis and mathematical modeling/dynamical systems. He is passionate about teaching and conducts internal training in data science for Intel at various levels.
